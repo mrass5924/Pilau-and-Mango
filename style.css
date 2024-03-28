@@ -1,0 +1,59 @@
+body{
+    background-color: cyan;
+    background-image: url(https://media.istockphoto.com/id/904617420/photo/fresh-mango-smoothie-in-the-glass.webp?b=1&s=170667a&w=0&k=20&c=gGmQ1gRKXgluTQsktUcEppxBbPWsCyu00GTT6Go-0PE=);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; 
+    color:black; 
+}
+h1{
+    font-size: larger;
+    font-weight: bolder;
+    font-style: normal;
+    color: red;
+}
+h2{
+    font-size: large;
+    font-style: normal;
+    font-weight: bold;
+    color: blue;
+}
+h3{
+    font-size: bolder;
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(235, 23, 23);
+}
+h4{
+    font-size: larger;
+    font-weight: bolder;
+    font-style: normal;
+    color: chartreuse;
+}
+h1{
+    border-style: outset;
+    margin: 2rem;
+    padding: 2rem;
+    border-color:greenyellow;
+}
+h2{
+    border-style: inset;
+    margin: 2px;
+    padding: 2px;
+    border-color: azure;
+    border-top-color: blueviolet;
+}
+h3{
+    border-style: solid;
+    margin: 3rem;
+    padding: 3rem;
+    border-color: aquamarine;
+    border-bottom-color: darkgreen;
+}
+h4{
+    border-style: ridge;
+    margin: 3px;
+    padding: 3px;
+    border-color: deeppink;
+}
+
